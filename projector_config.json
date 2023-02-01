@@ -1,10 +1,10 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "S2_GAN",
       "tensorShape": [
-        1000,
-        50
+        1736,
+        512
       ],
       "tensorPath": "https://raw.githubusercontent.com/metadesignlab/GAN-tSNE/main/output.tsv",
       "metadataPath": "https://raw.githubusercontent.com/metadesignlab/GAN-tSNE/main/metadata.tsv",
