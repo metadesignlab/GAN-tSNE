@@ -10,8 +10,8 @@
       "metadataPath": "https://raw.githubusercontent.com/metadesignlab/GAN-tSNE/main/metadata.tsv",
       "sprite": {
         "imagePath": "https://raw.githubusercontent.com/metadesignlab/GAN-tSNE/main/sprites.png",        "singleImageDim": [
-          32,
-          32
+          64,
+          64
         ]
       }
     }
